@@ -1,20 +1,25 @@
-# first-repo
-this honey first repo
-i do some changes 
+# Canan Cansu Caner
 
-<hr>
+a little about me 
+architect, web-development ethusiast
+<br>
 
-## this is a subtitle *h2*
-hi y'all this is what we do today
-- bla
-- bla bla
-- bla bla bla
+<hr> 
 
-<hr>
+## Education
+<hr> 
+1- Politecnico di Milano, Bachelors of Architecture, 2012-2015
+2- Politecnico di Milano, Masters in Architecture and Urban Design 2018-2020
 
-this is how we start the day :
-1. 9-930 student recap
-2. 930-1230 class
-3. 1230-1400 lunch
+## Professional
+<hr> 
+1- Heim Balp Arch., Berlin, 3 years
+2- Atolye Kolektif, Istanbul, 1 year
 
-<a href='https://www.google.com/maps'> click me </a>
+## Extra-curricular
+<hr> 
+- animal lover
+- part-time karma yogi
+- wishes a side career as a tattoo designer
+
+### <a href=""> Contact me </a>

@@ -1,10 +1,9 @@
 
-<img src="https://github.com/cincu/first-repo/blob/main/sote1.jpeg?raw=true" alt="sote">
+<img src="https://github.com/cincu/first-repo/blob/main/sote1.png?raw=true" alt="sote">
 
 # Canan Cansu Caner
 <br>
-<br>
-<br>
+
 a little about me 
 architect, web-development ethusiast
 
@@ -23,4 +22,5 @@ architect, web-development ethusiast
 - part-time karma yogi
 - wishes a side career as a tattoo designer
 
-### <a href=""> Contact me </a>
+ <a href="https://www.instagram.com/cincu_"> IG </a>
+ <a href

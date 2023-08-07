@@ -1,4 +1,5 @@
-![sote](https://github.com/username/repository/blob/master/img/octocat.png)
+
+<img src="https://github.com/cincu/first-repo/blob/main/sote1.jpeg?raw=true" alt="sote">
 
 # Canan Cansu Caner
 <br>

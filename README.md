@@ -23,4 +23,4 @@ architect, web-development ethusiast
 - wishes a side career as a tattoo designer
 
  <a href="https://www.instagram.com/cincu_"> IG </a>
- <a href="mailto:canancansucaner@gmail.com"></a>
+ <a href="mailto:canancansucaner@gmail.com"> e-mail </a>
